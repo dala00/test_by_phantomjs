@@ -28,7 +28,8 @@ to run all tests in spec folder.
 * chai
 * PhantomJS
 
-* wait.for is from PhantomJS sample
+* [mocha-phantom](https://github.com/feb0223/mocha-phantom)
+* wait.for is changed from PhantomJS sample
 
 ## Licence
 
